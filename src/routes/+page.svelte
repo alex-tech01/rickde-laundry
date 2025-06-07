@@ -235,8 +235,8 @@
     footer {
         text-align: center;
         padding: 2rem 1rem;
-        background: #222;
-        color: white;
+        background: #5674d8;
+        color: rgb(121, 95, 206);
     }
 
     /* Floating WhatsApp Icon */
